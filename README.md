@@ -16,6 +16,7 @@ C# Windows Forms application with:
 2. Right-click solution and choose **Restore NuGet Packages**.
 3. Build the solution.
 4. Run the project.
+5. To run the project use this command dotnet run --project .\PersonalFinanceTracker.csproj
 
 ## Database
 Debt data is stored in a local SQLite database:
